@@ -1,4 +1,7 @@
-# SOLID Principles
+## Low-Level Design (LLD)
+Low-Level Design (LLD) describes the internal logic of individual modules, classes, and functions. It includes class diagrams, method details, database schemas, and design patterns. LLD ensures that each component is well-defined, maintainable, and follows best practices like SOLID principles.
+
+## SOLID Principles
 
 SOLID is a set of five design principles for writing maintainable and scalable software:
 

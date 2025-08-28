@@ -1,5 +1,3 @@
-# System-Design
-
 ## High-Level Design (HLD)
 
 High-Level Design (HLD) is the process of defining the architecture, components, modules, interfaces, and data flow for a system. HLD provides an overview of the solution, focusing on how the system will be organized and how different parts will interact.
